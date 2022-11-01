@@ -4,6 +4,6 @@ describe('sample render test', () => {
   });
 
   it('displays the title text', () => {
-    cy.get('h1').contains(decodeURI(process.env.BLOG_TITLE));
+    cy.get('h1').contains('shit we say');
   });
 });
