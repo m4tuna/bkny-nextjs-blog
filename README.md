@@ -1,3 +1,5 @@
+[![Build](https://github.com/m4tuna/bkny-nextjs-blog/actions/workflows/netlify.yml/badge.svg)](https://github.com/m4tuna/bkny-nextjs-blog/actions/workflows/netlify.yml)
+
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
